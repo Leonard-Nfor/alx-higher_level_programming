@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    """ sum, mul, div, and sub of two
+    """ print sum, mul, div, and sub of two
     numbers a nd b"""
     from calculator_1 import add, sub, mul, div
 
