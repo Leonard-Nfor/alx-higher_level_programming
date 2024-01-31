@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""specify what to print"""
+
+
 class Rectangle:
     """A rectangle class"""
     def __init__(self, width=0, height=0):
